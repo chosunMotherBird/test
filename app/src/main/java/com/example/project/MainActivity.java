@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=getIntent();
     }
 
-    @Override
+//    @Override
 //    protected void onDestroy() {
 //        super.onDestroy();
 //        Intent intent=getIntent();
