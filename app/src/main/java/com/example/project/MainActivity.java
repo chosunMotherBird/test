@@ -26,9 +26,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        Intent intent=getIntent();
-        intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-    }
+//    protected void onDestroy() {
+//        super.onDestroy();
+//        Intent intent=getIntent();
+//        intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+//    }
 }
